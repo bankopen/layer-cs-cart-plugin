@@ -1,4 +1,4 @@
-## Layer Payment Payment Extension for CS-Cart 4.11
+## Layer Payment Extension for CS-Cart 4.11
 
 This extension utilizes Layer Payment API from Open and provides seamless integration with CS-Cart, allowing payments for Indian merchants via Credit Cards, Debit Cards, Net Banking (supports 3D Secure) without redirecting away from the CS-Cart site.
 
