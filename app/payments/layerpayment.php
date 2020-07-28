@@ -318,7 +318,7 @@ exit;
 
         return array(                       
             'Content-Type: application/json',                                 
-            'Authorization: Bearer '.$apikey.':'.$token,
+            'Authorization: Bearer '.$apikey.':'.$secretkey,
             'X-O-Timestamp: '.$time_stamp
         );
 
